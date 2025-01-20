@@ -1,5 +1,11 @@
 <h2 align="center">Hey, you there! 👋</h3>
 
+
+<div  style="display: inline_block" align="center">  
+  <a href="mailto:eduardobarrospro@gmail.com"><img alt="Eduardo-gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Google"/></a>
+  <a href="https://www.linkedin.com/in/eduardogtbarros/" target="_blank"><img alt="Eduardo-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" title="LinkedIn"/></a>  
+</div>
+
 <h3 align="center">"Intelligence is not a privilege, it's a gift. And you use it for the good of mankind."</h3> 
 
 ##
