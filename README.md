@@ -11,7 +11,7 @@
 ##
 <br>
 
-<a href="https://github.com/eduardogtbarros/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardogtbarros&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Eduardo's Github stats" /></a> | <a href="https://github.com/eduardogtbarros/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogtbarros&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
+<a href="https://github.com/eduardogtbarros/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardogtbarros&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Eduardo's Github stats" /></a> | <a href="https://github.com/eduardogtbarros/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardogtbarros&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ##
