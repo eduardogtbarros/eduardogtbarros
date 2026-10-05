@@ -2,7 +2,7 @@
 
 
 <div  style="display: inline_block" align="center">  
-  <a href="mailto:eduardobarrospro@gmail.com"><img alt="Eduardo-gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="Google"/></a>
+  <a href="mailto:eduardobarrospro@gmail.com"><img alt="Eduardo-gmail" height="30" width="40" src="https://skillicons.dev/icons?i=gmail" title="Gmail"/></a>
   <a href="https://www.linkedin.com/in/eduardogtbarros/" target="_blank"><img alt="Eduardo-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank" title="LinkedIn"/></a>  
 </div>
 
@@ -11,7 +11,7 @@
 ##
 <br>
 
-<a href="https://github.com/eduardogtbarros/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardogtbarros&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Eduardo's Github stats" /></a> | <a href="https://github.com/eduardogtbarros/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardogtbarros&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
+<a href="https://github.com/eduardogtbarros/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardogtbarros&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Eduardo's Github stats" /></a> | <a href="https://github.com/eduardogtbarros/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogtbarros&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ##
@@ -23,7 +23,7 @@
 
 | <h3 align="center">Programming Languages</h3> | <h3 align="center">Tools and Technologies</h3> |
 |:--------------------------------------------:|:----------------------------------------------:|
-| <img align="center" alt="C-plus-plus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/> <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/> <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> | <img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/> <img align="center" alt="GitLab" heigh="40" width="40" src="https://skillicons.dev/icons?i=gitlab"  title="GitLab"/> <img align="center" alt="GitKraken" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg"  title="GitKraken"/> <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"/> <img align="center" alt="Postman" heigh="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"  title="Postman"/> |
+| <img align="center" alt="AWS" height="40" width="40" src="https://skillicons.dev/icons?i=aws" title="AWS"/><img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/> <img align="center" alt="C-plus-plus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/> <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> | <img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/> <img align="center" alt="Azure DevOps" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps"/> <img align="center" alt="GitLab" heigh="40" width="40" src="https://skillicons.dev/icons?i=gitlab"  title="GitLab"/> <img align="center" alt="AWS" height="40" width="40" src="https://skillicons.dev/icons?i=aws" title="AWS"/> <img align="center" alt="UiPath" height="40" width="40" src="https://cdn.simpleicons.org/uipath" title="UiPath"/> |
 
 | <h3 align="center">Databases</h3> | <h3 align="center">IDEs</h3> |
 |:----------------------------------:|:--------------------------:|
